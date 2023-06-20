@@ -1,4 +1,5 @@
-![Logo](logo/icon.png)
+<img src="logo/banner.png" alt="drawing" width="100"/>
+
 # ArticPolar.Dev.BitlyAPI
 A C# implementation of the Bit.ly API
 
