@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/JoseLucas1303/ArticPolar.Dev.BitlyAPI/main/logo/banner.png" width="100%" height="300"/>]([logo/banner.png](https://raw.githubusercontent.com/JoseLucas1303/ArticPolar.Dev.BitlyAPI/main/logo/banner.png))
+![drawing](https://raw.githubusercontent.com/JoseLucas1303/ArticPolar.Dev.BitlyAPI/main/logo/banner.png | width=100% height=300)
 
 # ArticPolar.Dev.BitlyAPI ![Logo](https://raw.githubusercontent.com/JoseLucas1303/ArticPolar.Dev.BitlyAPI/main/logo/icon.png)
 A C# implementation of the Bit.ly API
