@@ -1,6 +1,8 @@
-<img src="logo/banner.png" width="100%"/>
+<div align="center">
+  <img src="logo/banner.png" width="100%" height="300px">
+</div>
 
-# ArticPolar.Dev.BitlyAPI
+# ArticPolar.Dev.BitlyAPI ![Logo](logo/icon.png)
 A C# implementation of the Bit.ly API
 
 ## Example of Use
