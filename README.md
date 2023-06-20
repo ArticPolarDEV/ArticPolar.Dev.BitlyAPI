@@ -1,4 +1,5 @@
 # ArticPolar.Dev.BitlyAPI
+![Logo](logo/icon.png)
 A C# implementation of the Bit.ly Api
 
 ## Example of Use
