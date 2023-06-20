@@ -1,6 +1,6 @@
-# ArticPolar.Dev.BitlyAPI
 ![Logo](logo/icon.png)
-A C# implementation of the Bit.ly Api
+# ArticPolar.Dev.BitlyAPI
+A C# implementation of the Bit.ly API
 
 ## Example of Use
 ````
