@@ -1,0 +1,7 @@
+c:\users\erive\onedrive\documents\visual studio 2012\Projects\ArticPolar.Dev.BitlyAPI\ArticPolar.Dev.BitlyAPI\obj\Debug\ArticPolar.Dev.BitlyAPI.csprojResolveAssemblyReference.cache
+c:\users\erive\onedrive\documents\visual studio 2012\Projects\ArticPolar.Dev.BitlyAPI\ArticPolar.Dev.BitlyAPI\bin\Debug\ArticPolar.Dev.BitlyAPI.dll
+c:\users\erive\onedrive\documents\visual studio 2012\Projects\ArticPolar.Dev.BitlyAPI\ArticPolar.Dev.BitlyAPI\bin\Debug\ArticPolar.Dev.BitlyAPI.pdb
+c:\users\erive\onedrive\documents\visual studio 2012\Projects\ArticPolar.Dev.BitlyAPI\ArticPolar.Dev.BitlyAPI\bin\Debug\Newtonsoft.Json.dll
+c:\users\erive\onedrive\documents\visual studio 2012\Projects\ArticPolar.Dev.BitlyAPI\ArticPolar.Dev.BitlyAPI\bin\Debug\Newtonsoft.Json.xml
+c:\users\erive\onedrive\documents\visual studio 2012\Projects\ArticPolar.Dev.BitlyAPI\ArticPolar.Dev.BitlyAPI\obj\Debug\ArticPolar.Dev.BitlyAPI.dll
+c:\users\erive\onedrive\documents\visual studio 2012\Projects\ArticPolar.Dev.BitlyAPI\ArticPolar.Dev.BitlyAPI\obj\Debug\ArticPolar.Dev.BitlyAPI.pdb

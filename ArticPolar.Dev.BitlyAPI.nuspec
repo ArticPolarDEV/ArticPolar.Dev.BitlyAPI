@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>ArticPolar.Dev.BitlyAPI</id>
+    <version>1.0.0</version>
+    <title>ArticPolar.Dev.BitlyAPI</title>
+    <authors>ArticPolar Apps</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/JoseLucas1303/ArticPolar.Dev.BitlyAPI/</projectUrl>
+    <description>A C# implementation of the Bit.ly Api</description>
+    <releaseNotes>First Version</releaseNotes>
+    <copyright>Copyright © ArticPolar 2023</copyright>
+    <tags>bitly shortener link web api</tags>
+  </metadata>
+  <files>
+    <file src="Newtonsoft.Json.dll" target="lib\net45\Newtonsoft.Json.dll" />
+    <file src="Newtonsoft.Json.xml" target="lib\net45\Newtonsoft.Json.xml" />
+  </files>
+</package>
